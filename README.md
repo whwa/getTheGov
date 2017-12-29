@@ -12,7 +12,7 @@
 ### To Run
 ```node index.js input.txt```
 
-...where input.txt is the file containing sender information. The input file should be formatted the same as input.txt included in this project.
+...where input.txt is the file containing sender information. The input file should be formatted the same as input.txt included in this project. Note: message field in input file can be no longer than 500 characters.
 
 Link to created letter will print to console.
 
