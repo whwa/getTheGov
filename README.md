@@ -1,13 +1,13 @@
-# lobIt
+# getTheGov
 
-### Must have Node.js to run.
+#### This is a simple program that reads an input file with sender information and creates a letter to the governor, outputting link to access letter. Uses Google Civic API to get governor info based on sender zip code. Uses Lob API to create formatted and ready-to-send letter.
 
 ## To get up and running:
 
-1. Unzip
+1. ```npm install```
 2. Create Google API key -> Be sure to also enable Google Civic Information API on your developer console.
 3. Create Lob account -> Log in and access your Settings. Under 'Account' tab, change US Mail Strictess to 'Relaxed'. You can find you test API key in 'API Keys' tab.
-4. Fill in placeholders in .env file with api keys.
+4. Create .env file (copy example) and fill in placeholders with api keys.
 
 ### To Run
 ```node index.js input.txt```
