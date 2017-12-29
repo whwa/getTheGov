@@ -1,5 +1,5 @@
 {
-  "name": "lobit",
+  "name": "getTheGov",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,21 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whwa/lobIt.git"
+    "url": "git+https://github.com/whwa/getTheGov.git"
   },
   "author": "Whitney Walker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/whwa/lobIt/issues"
+    "url": "https://github.com/whwa/getTheGov/issues"
   },
-  "homepage": "https://github.com/whwa/lobIt#readme",
+  "homepage": "https://github.com/whwa/getTheGov#readme",
   "dependencies": {
     "axios": "^0.17.1",
     "chai": "^4.1.2",
     "dotenv": "^4.0.0",
-    "lob": "^5.0.0"
-  },
-  "devDependencies": {
+    "lob": "^5.0.0",
     "mocha": "^4.0.1"
-  }
+  },
+  "devDependencies": {}
 }
