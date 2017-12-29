@@ -1,0 +1,28 @@
+{
+  "name": "lobit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whwa/lobIt.git"
+  },
+  "author": "Whitney Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whwa/lobIt/issues"
+  },
+  "homepage": "https://github.com/whwa/lobIt#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "chai": "^4.1.2",
+    "dotenv": "^4.0.0",
+    "lob": "^5.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
