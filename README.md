@@ -7,7 +7,7 @@
 1. ```npm install```
 2. Create Google API key -> Be sure to also enable Google Civic Information API on your developer console.
 3. Create Lob account -> Log in and access your Settings. Under 'Account' tab, change US Mail Strictess to 'Relaxed'. You can find you test API key in 'API Keys' tab.
-4. Create .env file (copy example) and fill in placeholders with api keys.
+4. Create .env file in root directory (copy example) and fill in placeholders with api keys.
 
 ### To Run
 ```node index.js input.txt```
